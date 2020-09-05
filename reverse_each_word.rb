@@ -4,7 +4,6 @@ def reverse_each_word(string)
     word.reverse
   end
   array.join()" ")
-  #take each element, and iterate over to reverse that words
 end
 
 hi = "Hello there, and how are you?"
